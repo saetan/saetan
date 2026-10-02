@@ -1,7 +1,8 @@
 # Hi, I'm Sae 👋
 
-I'm a full-stack developer currently exploring how far AI-assisted development can go
-when you use it to build real, tested, shipped software — not just demos.
+I'm a software engineer tinkering at the intersection of web dev and AI tooling, exploring
+how far AI-assisted development can go when you use it to build real, tested, shipped
+software — not just demos.
 
 ### 🔨 What I'm building
 - **[article-saver](https://github.com/saetan/article-saver)** — a personal read-it-later app
